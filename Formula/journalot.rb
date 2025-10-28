@@ -1,8 +1,8 @@
 class Journalot < Formula
   desc "Git-backed journaling CLI for developers"
   homepage "https://github.com/jtaylortech/journalot"
-  url "https://github.com/jtaylortech/journalot/archive/refs/tags/v4.5.0.tar.gz"
-  sha256 "e7507ebeb3223c7a141ac446aea289d6aa7c51b30d12faa9a10ff3c66b59228a"
+  url "https://github.com/jtaylortech/journalot/archive/refs/tags/v4.7.0.tar.gz"
+  sha256 "e2387768509e8b729c64eaf5c92f294f3bfa52558bdcbf88bbfc3f0c4cc466f0"
   license "MIT"
 
   def install
